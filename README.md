@@ -20,4 +20,3 @@ In this web application every Revature employee can connect to other employees, 
 * Interactive Chat Room
 * Form Validation
 * Like Your Friend's Posts
-* Approve or Deny Multiple Reimburesments at Once
