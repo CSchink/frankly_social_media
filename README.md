@@ -55,4 +55,4 @@ First thing's first - why not create an account? Add all the relevant informatio
 18. Navigate to http://localhost:9001/ and create a new account
 
 ## License
-This uses the MIT license.
+This project uses the MIT license.
