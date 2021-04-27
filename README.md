@@ -45,8 +45,8 @@ First thing's first - why not create an account? Add all the relevant informatio
 10. Open up the newly cloned franky_social_media file then open Project Two in Intellij
 11. Once in Intellij go to Run -> Edit Configurations
 12. Add Smart Tomcat as a new configuration:
-  * add /social to the context path
-  * click on folder icon in the Deployment Directory and then select src -> main -> webapp
+  - add /social to the context path
+  - click on folder icon in the Deployment Directory and then select src -> main -> webapp
 13. Run the Tomcat Server
 14. Now, if you have not downloaded Angular, please visit their website and download Angular
 15. Go back to the cloned franky_social_media file and open the Front-End file in Visual Studio Code
