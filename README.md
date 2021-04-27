@@ -33,20 +33,20 @@ First thing's first - why not create an account? Add all the relevant informatio
 4. Connect AWS RDS with DBeaver
 5. Right-click on the newly created database and select a new SQL script
 6. Navigate to the SQL file in the newly cloned reimbursement_system file and:
-* Copy and paste file into the new DBeaver SQL script
-* Right-click and select "run" to initialize tables
-* Remember usernames and passwords for logging into the application
+  * Copy and paste file into the new DBeaver SQL script
+  * Right-click and select "run" to initialize tables
+  * Remember usernames and passwords for logging into the application
 7. Store database login credentials in your system environment variables as:
-* TRAINING_DB_URL: [AWS_RDS_url]
-* TRAINING_DB_USERNAME: [DBeaver username]
-* TRAINING_DB_password: [AWS_RDS password]
+  * TRAINING_DB_URL: [AWS_RDS_url]
+  * TRAINING_DB_USERNAME: [DBeaver username]
+  * TRAINING_DB_password: [AWS_RDS password]
 8. Download Apache Tomcat v. 9.0.45
 9. Unzip Apache Tomcat into the directory of your choosing
 10. Open up the newly cloned franky_social_media file then open Project Two in Intellij
 11. Once in Intellij go to Run -> Edit Configurations
 12. Add Smart Tomcat as a new configuration:
-* add /social to the context path
-* click on folder icon in the Deployment Directory and then select src -> main -> webapp
+  * add /social to the context path
+  * click on folder icon in the Deployment Directory and then select src -> main -> webapp
 13. Run the Tomcat Server
 14. Now, if you have not downloaded Angular, please visit their website and download Angular
 15. Go back to the cloned franky_social_media file and open the Front-End file in Visual Studio Code
