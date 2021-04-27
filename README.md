@@ -25,15 +25,21 @@ In this web application every Revature employee can connect to other employees, 
 
 First thing's first - why not create an account? Add all the relevant information to the account and then log back in and you will be presented with a full list of the posts from all users. 
 
+![image](https://user-images.githubusercontent.com/45950072/116252532-a94a6200-a73d-11eb-8fec-62f9ce061d48.png)
 
+After a successful login you will see the full list of posts in the main post feed.  You may select an individual's profile name (@username) and navigate to their post feed.  You may also like and unlike any number of posts.
 
-After a successful login you will see the full list of posts in the main post feed.
+![image](https://user-images.githubusercontent.com/45950072/116252403-891aa300-a73d-11eb-8664-a7216372f413.png)
 
+You can make as many posts as you like, and even upload photos:
 
+![image](https://user-images.githubusercontent.com/45950072/116252708-d3038900-a73d-11eb-940e-5071c6bd52af.png)
 
-may select an individual's profile name (@username) and navigate to their post feed.  You may also like and unlike any number of posts.
+Finally you can also chat live with anyone who's currently online: 
 
+![image](https://user-images.githubusercontent.com/45950072/116252644-c2eba980-a73d-11eb-85f4-6c5793f2036a.png)
 
+And, if you forget your 
 
 ## Getting Started
 
@@ -57,12 +63,22 @@ may select an individual's profile name (@username) and navigate to their post f
 12. Add Smart Tomcat as a new configuration:
     - add /social to the context path
     - click on folder icon in the Deployment Directory and then select src -> main -> webapp
+    - It should look like this:
+
+![image](https://user-images.githubusercontent.com/45950072/116252500-a0599080-a73d-11eb-9ed5-a932931eb8e3.png)
+
 13. Run the Tomcat Server
 14. Now, if you have not downloaded Angular, please visit their website and download Angular
 15. Go back to the cloned franky_social_media file and open the Front-End file in Visual Studio Code
 16. Open a new command line terminal and run npm install
 17. Now run the command ng-serve to start the server
 18. Navigate to http://localhost:9001/ and create a new account
+
+Contributors:
+
+-Hakeem Clark
+- Michael DeGennaro
+- Erik Williams
 
 ## License
 This project uses the MIT license.
