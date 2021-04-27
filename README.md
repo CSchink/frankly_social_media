@@ -53,3 +53,6 @@ First thing's first - why not create an account? Add all the relevant informatio
 16. Open a new command line terminal and run npm install
 17. Now run the command ng-serve to start the server
 18. Navigate to http://localhost:9001/ and create a new account
+
+## License
+This uses the MIT license.
