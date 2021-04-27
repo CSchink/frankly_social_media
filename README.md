@@ -82,7 +82,7 @@ And, if you forget your
 
 Contributors:
 
--Hakeem Clark
+- Hakeem Clark
 - Michael DeGennaro
 - Erik Williams
 
