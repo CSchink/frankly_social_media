@@ -25,11 +25,17 @@ In this web application every Revature employee can connect to other employees, 
 
 First thing's first - why not create an account? Add all the relevant information to the account and then log back in and you will be presented with a full list of the posts from all users. 
 
+
+
 ![image](https://user-images.githubusercontent.com/45950072/116252532-a94a6200-a73d-11eb-8fec-62f9ce061d48.png)
 
-After a successful login you will see the full list of posts in the main post feed.  You may select an individual's profile name (@username) and navigate to their post feed.  You may also like and unlike any number of posts.
+After a successful login you will see the full list of posts in the main post feed.  
 
 ![image](https://user-images.githubusercontent.com/45950072/116252403-891aa300-a73d-11eb-8664-a7216372f413.png)
+
+You may select an individual's profile name (@username) and navigate to their post feed.  You may also like and unlike any number of posts.
+
+![image](https://user-images.githubusercontent.com/45950072/116253352-6937af00-a73e-11eb-9913-2fae84197fe9.png)
 
 You can make as many posts as you like, and even upload photos:
 
