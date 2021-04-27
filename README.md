@@ -23,7 +23,17 @@ In this web application every Revature employee can connect to other employees, 
 
 ## Usage
 
-First thing's first - why not create an account? Add all the relevant information to the account and then log back in and you will be presented with a full list of the posts from all users. From there you may select an individual's profile name (@username) and navigate to their post feed.  You may also like and unlike any number of posts.
+First thing's first - why not create an account? Add all the relevant information to the account and then log back in and you will be presented with a full list of the posts from all users. 
+
+
+
+After a successful login you will see the full list of posts in the main post feed.
+
+
+
+may select an individual's profile name (@username) and navigate to their post feed.  You may also like and unlike any number of posts.
+
+
 
 ## Getting Started
 
